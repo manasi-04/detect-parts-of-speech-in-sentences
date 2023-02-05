@@ -1,0 +1,12 @@
+.dashboard {
+    background-color: #6ac724;
+    color: white;
+    border-radius: 5px;
+    margin-top: 20px;
+    height: 30px;
+    border: none;
+}
+
+button:hover {
+    cursor: pointer;
+}
